@@ -43,4 +43,4 @@ The architecture excels at handling metadata heavy workloads like those found in
 1. AWS
 2. Google Cloud 
 3. Aws
-4.aws
+4.AWS2
